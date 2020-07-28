@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="center">
+	<p>
+		<img src="https://raw.githubusercontent.com/aliataf/aliataf/master/header.svg" width="800" height="400">
+	</p>
+</div>
 
-<!--
-**RanjithJames/RanjithJames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+	💻 I'm working on my blog which is coming soon... ⏳
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aliataf" alt="Profile views" />
+</p>
