@@ -8,6 +8,4 @@
 	💻 I'm working on my blog which is coming soon... ⏳
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=RanjithJames" alt="Profile views" />
 </p>
