@@ -1,6 +1,6 @@
 <div align="center">
 	<p>
-		<img src="https://raw.githubusercontent.com/aliataf/aliataf/master/header.svg" width="800" height="400">
+		<img src="https://github.com/RanjithJames/RanjithJames/blob/master/i-love-data.jpg?raw=true" width="800" height="400">
 	</p>
 </div>
 
