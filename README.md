@@ -1,6 +1,6 @@
 <div align="center">
 	<p>
-		<img src="https://github.com/RanjithJames/RanjithJames/blob/master/i-love-data.jpg?raw=true" width="800" height="400">
+		<img src="https://github.com/RanjithJames/RanjithJames/blob/master/i-love-data.jpg?raw=true">
 	</p>
 </div>
 
