@@ -5,7 +5,7 @@
 </div>
 
 <p>
-	💻 I'm working on my blog which is coming soon... ⏳
+	Checkout My Internet Home @ WWW.Ranjith-james.com
 </p>
 
 </p>
