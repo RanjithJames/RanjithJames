@@ -5,7 +5,7 @@
 </div>
 
 <p>
-	Checkout My Internet Home @ www.Ranjith-james.com
+	Checkout My Internet Abode @ www.Ranjith-james.com
 </p>
 
 </p>
